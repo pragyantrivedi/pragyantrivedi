@@ -13,40 +13,6 @@
 
 ---
 
-### 🌐 Dark / Light Mode Friendly Flair
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution graph snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-### 🌍 3D Globe Flair
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/assets/earth.gif" width="300px" />
-</p>
-
----
-
-### 🧑‍🎨 Portfolio Preview (Scrolling)
-
-> Here's a sneak peek into some visual elements from [Digoxxin.com](https://digoxxin.com) and projects I’m working on:
-
-<div align="center">
-  <img src="https://github.com/pragyantrivedi/pragyantrivedi/assets/preview-1.png" width="300px" />
-  <img src="https://github.com/pragyantrivedi/pragyantrivedi/assets/preview-2.png" width="300px" />
-  <img src="https://github.com/pragyantrivedi/pragyantrivedi/assets/preview-3.png" width="300px" />
-</div>
-
-*(Tip: You can upload screenshots to your repo and replace the image URLs above with your own previews)*
-
----
-
 ### 👨‍💻 About Me
 
 - 🎓 BCA from **IMS**, currently pursuing MCA at **DIT University, Dehradun**
@@ -78,8 +44,8 @@
 
 ### 🌱 Current Focus
 
-- 🚀 Growing Digoxxin into a powerful tech brand  
-- 🔍 Exploring AI, DevOps, and next-gen web frameworks  
+- 🚀 Growing Digoxxin into a powerful tech brand
+- 🔍 Exploring AI, DevOps, and next-gen web frameworks
 - 🎨 Bridging code and creativity — one idea at a time
 
 ---
@@ -102,23 +68,6 @@
   <a href="https://digoxxin.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white" />
   </a>
-</p>
-
----
-
-### 🏆 GitHub Achievements & Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pragyantrivedi&theme=radical&margin-w=15&row=1&no-bg=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragyantrivedi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyantrivedi&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragyantrivedi&theme=radical" />
 </p>
 
 ---
