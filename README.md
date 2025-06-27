@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 BCA from **IMS**, currently pursuing MCA at **DIT University, Dehradun**
+- 🎓 Bachelor of Computer Applications from **Institute of Management Studies**, currently pursuing Master of Computer Applications at **DIT University, Dehradun**
 - 💡 Founder of [Digoxxin Technologies](https://digoxxin.com) — crafting next-gen digital products
 - ✈️ Started my first business in 12th grade — never stopped building since
 - 🏢 Formerly at **iEnergizer**, gaining real-world business insights
