@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=I+am+Pragyan.;I+am+an+Entrepreneur.;I+am+a+Developer.;I+am+a+Reverse+Engineer.;I+am+an+Artist." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8da46f&center=true&vCenter=true&width=435&lines=I+am+Pragyan.;I+am+an+Entrepreneur.;I+am+a+Developer.;I+am+a+Reverse+Engineer.;I+am+an+Artist." alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Student • Entrepreneur • Reverse Engineer • Developer • Creator</h3>
