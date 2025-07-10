@@ -19,7 +19,7 @@
 - 💡 Founder of [Digoxxin Technologies](https://digoxxin.com) — crafting next-gen digital products
 - ✈️ Started my first business in 12th grade — never stopped building since
 - 🏢 Formerly at **iEnergizer**, gaining real-world business insights
-- 🧠 Linux lover, cloud enthusiast, Android tinkerer, full-stack dev, and artis
+- 🧠 Linux lover, cloud enthusiast, Android tinkerer, full-stack dev, and artist
 
 ---
 
